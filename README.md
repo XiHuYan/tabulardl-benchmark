@@ -1,4 +1,6 @@
 # Deep Learning vs `LightGBM` for tabular data
+# Fork Purpose(Learn how to tune lgb params automatically)
+
 
 This repo contains the code to run over 1500 experiments that compare the
 performance of Deep Learning algorithms for tabular data with [`LightGBM`](https://lightgbm.readthedocs.io/en/latest/).
